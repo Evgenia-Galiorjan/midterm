@@ -31,11 +31,12 @@
 	display: flex;
 	justify-content: space-between;
 	margin-top: 70px;
-	width: 345px;
+    width: 345px;
+   color: #D9F0FF;
 }
-.anavigation
+.anavigation a
 {
-    color: #fff;
+    color: #D9F0FF;
 	font-size: 12px;
 	font-family: "Poppins-Light";
 	text-transform: uppercase;
